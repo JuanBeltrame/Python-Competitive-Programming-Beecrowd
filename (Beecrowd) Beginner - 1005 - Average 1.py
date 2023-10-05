@@ -1,4 +1,6 @@
 """
+Link to the problem: https://www.beecrowd.com.br/judge/en/problems/view/1005
+----------------------------------------------------------------------
 Read two floating points' values of double precision A and B, 
 corresponding to two student's grades. 
 
