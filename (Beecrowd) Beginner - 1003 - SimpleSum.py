@@ -1,4 +1,6 @@
 """
+Link to the problem: https://www.beecrowd.com.br/judge/en/problems/view/1003
+----------------------------------------------------------------------
 Read two integer values, 
 in this case, the variables A and B. 
 After this, calculate the sum between them and assign it to the variable SOMA. 
