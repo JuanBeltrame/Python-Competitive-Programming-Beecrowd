@@ -1,4 +1,6 @@
 """
+https://www.beecrowd.com.br/judge/en/problems/view/1004
+----------------------------------------------------------------------
 Read two integer values. 
 After this, calculate the product between them and store the result in a variable named PROD. 
 Print the result like the example below. 
