@@ -1,4 +1,6 @@
 """
+Link to the problem: https://www.beecrowd.com.br/judge/en/problems/view/1006
+----------------------------------------------------------------------
 Read three values (variables A, B and C), 
 which are the three student's grades. 
 Then, calculate the average, considering that grade A has weight 2, grade B has weight 3 and the grade C has weight 5. 
