@@ -1,30 +1,18 @@
 """
-Link to the problem: https://www.beecrowd.com.br/judge/en/problems/view/1038
+Link to the problem: https://www.beecrowd.com.br/judge/en/problems/view/1007
 ----------------------------------------------------------------------
-Using the following table, 
-write a program that reads a code and the amount of an item. 
-After, print the value to pay.
-
-This is a very simple program with the only intention of practice of selection commands.
+Read four integer values named A, B, C and D. 
+Calculate and print the difference of product A and B by the product of C and D (A * B - C * D).
 
 Input: 
-The input file contains two integer numbers X and Y. 
-X is the product code and Y is the quantity of this item according to the above table.
+The input file contains 4 integer values.
 
-Output: The output must be a message "Total: R$ " followed by the total value to be paid, with 2 digits after the decimal point.
+Output: 
+Print DIFERENCA (DIFFERENCE in Portuguese) with all the capital letters, according to the following example, with a blank space before and after the equal signal.
 """
-X = int(input("Enter Code: "))
-while True: 
-    if X == 1:
-        Y = int(input("Enter Quantity:"))
-    elif X == 2:
-        Y = int(input("Enter Quantity:"))
-    elif X == 3:
-        Y = int(input("Enter Quantity:"))
-    elif X == 4:
-        Y = int(input("Enter Quantity:"))
-    elif X == 5:
-        Y = int(input("Enter Quantity:"))
-    else:
-        False
-print("Total: R")
+A = int(input())
+B = int(input())
+C = int(input())
+D = int(input())
+difference = (A* B - C * D)
+print("DIFERENCA =",difference)
